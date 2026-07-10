@@ -14,7 +14,7 @@
 <p align="center">
   ☕ I love coffee <br>
   🐱 Cat lover <br>
-  🎓 First period of Software Engineering <br>
+  🎓 Second period of Software Engineering <br>
 </p>
 
 <p align="center">
